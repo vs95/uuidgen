@@ -1,9 +1,9 @@
-package uuidgen/v1_uuid
+package v0id
 
 import (
 	googleuuid "github.com/google/uuid"
 )
 
 func V1UUIDString() string {
-	return "v1-" + googleuuid.NewString()
+	return "v0-" + googleuuid.NewString()
 }

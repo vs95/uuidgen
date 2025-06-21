@@ -1,4 +1,4 @@
-package v1smartuuid
+package v1smartid
 
 import (
 	"github.com/google/uuid"
